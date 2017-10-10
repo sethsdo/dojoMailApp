@@ -29,4 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## 
 
-![screen shot 2017-10-10 at 4 35 25 pm](https://user-images.githubusercontent.com/21295244/31409216-1c188f44-add9-11e7-81dd-b78e5e6594e1.pn
+![screen shot 2017-10-10 at 4 35 25 pm](https://user-images.githubusercontent.com/21295244/31409320-73968726-add9-11e7-8e69-21881652f0e3.png)
